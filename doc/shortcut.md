@@ -55,8 +55,8 @@ Notice: `Meta`+`B` is equals with `Alt`+`B` in windows.
 | `Ctrl`+`B`              | Move Backward                            |
 | `Ctrl`+`N`              | Move to next line                        |
 | `Ctrl`+`P`              | Move to previous line                    |
-| `Ctrl`+`A`              | Move to the first candicate in current line |
-| `Ctrl`+`E`              | Move to the last candicate in current line |
+| `Ctrl`+`A`              | Move to the first candidate in current line |
+| `Ctrl`+`E`              | Move to the last candidate in current line |
 | `Tab` / `Enter`         | Use the word on cursor to complete       |
 | `Ctrl`+`C` / `Ctrl`+`G` | Exit Complete Select Mode                |
 | Other                   | Exit Complete Select Mode                |
